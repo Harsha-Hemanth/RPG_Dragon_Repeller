@@ -21,11 +21,18 @@ Each decision made by the player affects their chances of survival and victory. 
    git clone https://github.com/Harsha-Hemanth/RPG_Dragon_Repeller
    cd Dragon-Repeller
 2. Open the index.html file in your browser to start playing.
-
+   
+   ![Home](./output_images/Home.png)
 ## 📜 How to Play
 - Use the buttons to navigate between different locations and make choices.
 - Buy items, fight monsters, or return to the town square.
+  
+  ![Store](./output_images/Store.png)
+
+  ![Cave](./output_images/Cave.png)
 - The ultimate goal is to defeat the dragon and win the game.
+  
+  ![Fight Dragon](./output_images/Fight_Dragon.png)
 
 ## 📋 Requirements
 - A modern web browser (Chrome, Firefox, etc.)
