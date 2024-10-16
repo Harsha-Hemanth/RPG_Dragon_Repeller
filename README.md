@@ -15,16 +15,11 @@ Each decision made by the player affects their chances of survival and victory. 
 - Random Events: Chance to dodge attacks, miss strikes, or break weapons.
 - Easter Egg Game: Hidden mini-game with a fun number guessing challenge.
 
-## 🛠️ Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Harsha-Hemanth/RPG_Dragon_Repeller
-   cd Dragon-Repeller
-2. Open the index.html file in your browser to start playing.
-   
-   ![Home](./output_images/Home.png)
 ## 📜 How to Play
 - Use the buttons to navigate between different locations and make choices.
+
+  ![Home](./output_images/Home.png)
+  
 - Buy items, fight monsters, or return to the town square.
   
   ![Store](./output_images/Store.png)
