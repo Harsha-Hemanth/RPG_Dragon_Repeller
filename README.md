@@ -15,20 +15,6 @@ Each decision made by the player affects their chances of survival and victory. 
 - Random Events: Chance to dodge attacks, miss strikes, or break weapons.
 - Easter Egg Game: Hidden mini-game with a fun number guessing challenge.
 
-## 📜 How to Play
-- Use the buttons to navigate between different locations and make choices.
-
-  ![Home](./output_images/Home.png)
-  
-- Buy items, fight monsters, or return to the town square.
-  
-  ![Store](./output_images/Store.png)
-
-  ![Cave](./output_images/Cave.png)
-- The ultimate goal is to defeat the dragon and win the game.
-  
-  ![Fight Dragon](./output_images/Fight_Dragon.png)
-
 ## 📋 Requirements
 - A modern web browser (Chrome, Firefox, etc.)
 
